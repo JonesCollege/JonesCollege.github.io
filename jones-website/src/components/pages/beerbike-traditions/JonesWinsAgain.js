@@ -1,6 +1,5 @@
 import React from 'react';
 import './css/JonesWinsAgain.css';
-import bikerImage from './INFO/jones_wins_again_images/cyclist.png'; 
 
 const JonesWinsAgain = () => {
   return (
