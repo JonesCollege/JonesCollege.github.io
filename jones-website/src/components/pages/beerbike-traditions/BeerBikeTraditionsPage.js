@@ -3,6 +3,7 @@ import History from "./History";
 import Traditions from "./Traditions";
 import BeerBikeHeader from "./BeerBikeHeader";
 import BeerBikegallery from "./BeerBikeGallery";
+import JonesWinsAgain from "./JonesWinsAgain";
 import "./css/BeerBikeTraditionsPage.css";
 import Footer from "../../Footer";
 import { useState } from "react";
@@ -20,6 +21,7 @@ const BeerBikeTraditionsPage = () => {
       <div className="beerbikepage">
         <BeerBikeHeader />
         {!resize && <BeerBikegallery />}
+        <JonesWinsAgain />
         <Traditions />
         <History />
       </div>

@@ -1,0 +1,66 @@
+.jones-wins-container {
+  max-width: 800px; 
+  margin: 0 auto;
+  padding: 20px;
+  background-color: #F7F2FF;
+  border-radius: 8px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  margin-bottom: 60px;
+  position: relative; 
+}
+
+.title {
+  font-family: "futuraMediumBT";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 2.5em;
+  letter-spacing: 0.39em;
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.sub-title {
+  font-family: "futuraMediumBT";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 1.9em;
+  line-height: 27px;
+  letter-spacing: 0.39em;
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.results {
+  display: flex;
+  justify-content: space-around;
+}
+
+.category {
+  width: 45%;
+  background-color: #fff;
+  padding: 15px;
+  border-radius: 8px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.category-title {
+  font-weight: 500;
+  font-size: 1.8em;
+  margin-bottom: 10px;
+  text-align: center;
+}
+
+.results-list {
+  list-style-type: none;
+  padding: 0;
+}
+
+.results-list li {
+  font-weight: 500;
+  background-color: #F3F8F4;
+  margin: 10px 0;
+  padding: 10px;
+  border-radius: 5px;
+  font-size: 1.2em;
+  text-align: center;
+}
