@@ -6,13 +6,13 @@ import "slick-carousel/slick/slick.css";
 import "slick-carousel/slick/slick-theme.css";
 
 //Import Images
-import image1 from "./INFO/beerbikeimages/1.JPG";
+import image1 from "./INFO/beerbikeimages/img_1.jpg";
 import image2 from "./INFO/beerbikeimages/2.JPG";
-import image3 from "./INFO/beerbikeimages/3.JPG";
+import image3 from "./INFO/beerbikeimages/img_3.jpg";
 import image4 from "./INFO/beerbikeimages/4.JPG";
-import image5 from "./INFO/beerbikeimages/5.JPG";
+import image5 from "./INFO/beerbikeimages/img_5.jpg";
 import image6 from "./INFO/beerbikeimages/6.JPG";
-import image7 from "./INFO/beerbikeimages/7.JPG";
+import image7 from "./INFO/beerbikeimages/img_7.jpg";
 import image8 from "./INFO/beerbikeimages/8.JPG";
 
 const images = [

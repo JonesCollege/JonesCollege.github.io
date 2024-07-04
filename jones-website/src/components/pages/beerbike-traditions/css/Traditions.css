@@ -58,7 +58,7 @@
   display: flex;
   flex-direction: column;
   align-items: center;
-  padding: 0px;
+  padding: 0;
   gap: 41px;
 
   height: 547px;
@@ -71,10 +71,14 @@
 .photo {
   width: 235px;
   height: 235px;
+  border-radius: 50%; 
+  
+  overflow: hidden;
+  background-size: cover; 
+  background-position: center; 
+  background-repeat: no-repeat; 
 
-  border-radius: 169px;
-
-  /* Inside auto layout */
+  /* Inside auto layout  */
   flex: none;
   flex-grow: 0;
 }
