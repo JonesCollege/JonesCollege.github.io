@@ -1,23 +1,18 @@
 export const OtherPos = [
-    // {
-    //     "title": "Environmental Representatives",
-    //     "email": "jones.ecoreps@gmail.com",
-    //     "people": []
-    // },
-    // {
-    //     "title": "IT Ambassador",
-    //     "email": "",
-    //     "people": []
-    // },
+    {
+        "title": "Technology Coordinators",
+        "email": "",
+        "people": ["Evan Ho", "Maaz Zuberi"]
+    },
     {
         "title": "Student Maintenance Representative",
-        "email": "akb8@rice.edu",
-        "people": ["Andrew Buehler"]
+        "email": "bm82@rice.edu",
+        "people": ["Brad Mahung"]
     },
     {
         "title": "Senior Events Coordinators",  
         "email": "jonesseniorevents@gmail.com",
-        "people": ["Ron Underwood", "Elizabeth Fessler", "Jon Gan"]
+        "people": ["Ashley Kase", "Kareena Patel", "Maaz Zuberi", "Maya Hoffman"]
     },
     // {
     //     "title": "Diversity Council",
@@ -26,7 +21,7 @@ export const OtherPos = [
     // },
     {
         "title": "Public Space Coordinator",
-        "email": "akb8@rice.edu",
-        "people": ["Andrew Buehler"]
+        "email": "dmr10@rice.edu",
+        "people": ["Dylan Raaum"]
     },
 ]
