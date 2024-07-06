@@ -29,24 +29,15 @@ const Studentgov = () => {
           <img src={PresInfo.img} alt='Jones President' id='presimg' />
           <div style={{paddingLeft: '3rem', paddingRight: '3rem'}}>
             <p id='prestitle'>PRESIDENT {PresInfo.year}</p>  
-            <h3 id='presname'>{PresInfo.name}, JONES '24</h3>
+            <h3 id='presname'>{PresInfo.name}, JONES '25</h3>
+            <h3 id='presinfo'>Social Policy Analysis & Economics</h3>
+            <h3 id='presinfo'>513-282-5201 | jonespresident@rice.edu</h3>
           </div>
         </div>
           <div id='prescontainer'>
-            <p id='presintro'>Hey Jones! My name is Taya, and I'm the Jones president for the 2023-24 school year! 
-            I'm so excited to have the opportunity to be president this year as we continue to strengthen our culture 
-            and traditions while also reimagining the way in which the college is run. Community inclusion and 
-            engagement are my biggest priorities, and I'm excited to see the ways in which Jones can be a home away 
-            from home for all of its students.<br/><br/>College presidents wear a lot of hats, but the role's main 
-            responsibilities are to act as a liaison between the college and university administration, represent 
-            the will of the college across university government, and steer the goals and direction of the college's 
-            government internally. With that being said, the best part of the job is interacting with Jonesians and 
-            seeing the passion that all members of our community bring to a wide variety of issues. Whether you are a 
-            new student, graduating senior, college alum, or anyone else, I hope that I am accessible enough to act as 
-            a helping hand, campus resource guide, or a listener if you just need someone to talk to. Congrats on 
-            finding the webpage of the best college at Rice University and, as always, JIBA!!!
+            <p id='presintro'>Hey Jones! My name is Yuv, and I'm the Jones president for the 2024-25 school year! <br/><br/> Being a part of Jones these past (almost) 4 years has given me immense pride, fulfillment, and community, and I'm so excited and honored to be your President this year. <br/><br/> As President, my goal is to help create a safe and empowering space where you feel supported in things that excite you, including any challenges you may face in getting to where you want to go. No matter where your passions take you, I hope that Jones can be a part of it. I don’t do this alone — alongside an incredible executive team, A-team, and community of Jonesians, we empower each other to to approach every situation with confidence, compassion, and kindness. Alongside this, we hope to build out our traditions and culture to create impactful experiences for all Jonesians. <br/><br/> College presidents wear a lot of hats, but the role's main responsibilities are to act as a liaison between the college and university administration, represent the will of the college across university government, and steer the goals and direction of the college's government internally. With that being said, the best part of the job is interacting with Jonesians and seeing the passion that all members of our community bring to a wide variety of issues. Whether you are a new student, graduating senior, college alum, or anyone else, I hope that I am accessible enough to act as a helping hand, campus resource guide, or a listener if you just need someone to talk to. Congrats on finding the webpage of the best college at Rice University and, as always, JIBA!!!
               <br></br><br></br>
-              - Taya Lasota '24 (she/her)
+              - Yuv Sachdeva '25 (he/him)
             </p>
           </div>
 

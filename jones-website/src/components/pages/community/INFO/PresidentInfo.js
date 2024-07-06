@@ -1,6 +1,6 @@
 export const PresInfo = {
-    "img": "./images/cabinet/Taya.jpg",
-    "name": "Taya Lasota",
-    "year": "2023-2024",
+    "img": "./images/cabinet/2024-2025/yuv.jpg",
+    "name": "Yuv Sachdeva",
+    "year": "2024-2025",
     "desc": ""
 }

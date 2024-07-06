@@ -26,7 +26,7 @@
 #presflexrow {
     display: flex;
     flex-direction: row;
-    justify-content: left;
+    justify-content: center;
     align-items: center;
     background-color: #FFFFFF;
     position: relative;
@@ -36,7 +36,7 @@
 }
 
 #presimg {
-    width: 500px;
+    width: 550px;
     height: auto;
     background-color: white;
 }
@@ -59,12 +59,28 @@
 }
 
 #presname {
-    padding-bottom: 0.5rem;
+    padding-bottom: 1.0rem;
 
     font-family: 'futuraBook';
     font-style: normal;
     font-weight: 400;
     font-size: 20px;
+    line-height: 24px;
+    /* identical to box height */
+
+    letter-spacing: 0.39em;
+    text-transform: uppercase;
+
+    color: #000000;
+}
+
+#presinfo {
+    padding-bottom: 1.0rem;
+
+    font-family: 'futuraBook';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
     line-height: 24px;
     /* identical to box height */
 
@@ -103,7 +119,7 @@
     font-family: 'mpBlkLt';
     font-style: normal;
     font-weight: 300;
-    font-size: 16px;
+    font-size: 18px;
     line-height: 24px;
     text-align: justify;
 
