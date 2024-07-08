@@ -42,7 +42,7 @@ export const AppointedPos = [
                 "people": ["Anna Stravato", "Rachel Parr"]
             },
             {
-                "title": "Arts and Culture Coordinators",
+                "title": "Cultural Coordinators",
                 "email": "jonesculturals@gmail.com",
                 "people": ["Daniel Peinado", "Safa Merani"]
             },
@@ -71,11 +71,11 @@ export const AppointedPos = [
                 "email": "jonessportscoords@gmail.com",
                 "people": ["Aditya Daga", "Maya Gerke", "Sean McGarry"],
             },
-            {
-                "title": "Voter Rep",
-                "email": "",
-                "people": ["Ben Lindenbaum"]
-            },
+            // {
+            //     "title": "Voter Rep",
+            //     "email": "",
+            //     "people": ["Ben Lindenbaum"]
+            // },
             {
                 "title": "Sports Coordinators",
                 "email": "jonessportscoords@gmail.com",

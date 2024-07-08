@@ -45,30 +45,21 @@ const Ateam = () => {
       </div>
 
       <div className='ateamflex'>
-        {resize && <img src={require('./INFO/ateam_images/michelle.webp')} alt='Jones College Coordinator, Michelle Bennack' className='ateamimage float-right' id='ccimage'></img>}
+        {resize && <img src={require('./INFO/ateam_images/SagerPic.jpg')} alt='Jones College Coordinator, Kellie Sager' className='ateamimage float-right' id='ccimage'></img>}
         <div className='ateaminfo'>
-          <p className='ateamname'>Michelle Bennack</p>
-          <div className='ateamposemail'><span className='ateampos'>College Coordinator</span><a href='mailto: mrb4@rice.edu' className='ateamemail'>mrb4@rice.edu</a></div>
+          <p className='ateamname'>Kellie Sager</p>
+          <div className='ateamposemail'><span className='ateampos'>College Coordinator</span><a href='mailto: ks235@rice.edu' className='ateamemail'>ks235@rice.edu</a></div>
           <p className='ateamdesc'>
-          Michelle joined the team at Jones College in 2009 and is the college coordinator
-          for Jones College. Michelle is responsible for the daily operations of the college.
-          She helps manage the college's finances, events and facilities. Michelle's
-          involvement in the many aspects of Jones College life, means she will often be a
-          student's first stop for questions and guidance. She is here to help you through
-          your college years and provide you with a variety of things: your mail, packages
-          from home, stamps, envelopes, faxes, photocopies, answers to your queries, and
-          being the cool aunt providing you with smiles, hugs and a candy treat!
+          Kellie Sager (she/they) is the new College Coordinator for Jones College Started on June 17th. Originally from Dallas.
           <br/><br/>
-          When she's not making the kingdom of Jones run smoothly, Michelle enjoys
-          entertaining friends with the perfect cocktail, relaxing with a great book or movie
-          and cycling with her husband Lloyd (btw he's a Rice Grad, a Jones associate, and
-          all round great guy).
+          She helps manage the college's finances, events and facilities. Kellie's involvement in the many aspects of Jones College life, means she will often be a student's first stop for questions and guidance. She is here to help you through your college years and provide you with a variety of things: your mail, packages from home, stamps, envelopes, faxes, photocopies, answers to your queries, and being the cool aunt providing you with smiles, hugs and a candy treat!
           <br/><br/>
-          Just know the office is a great place to hangout with comfy couches, candy, and
-          the amazing Michelle! Stop by anytime to take a break from your busy day!
+          Outside of work, she stays busy with her husband, four children, dog, and two cats. They share a passion for Renaissance fairs, gaming adventures, and anime marathons as a family. She also likes to indulge her creative side with crafting projects, exploring graphic design, and capturing moments through photography.
+          <br/><br/>
+          She is very excited to connect with Jonesians and contribute to the growth and success of all students. Just know the office is a fun place to hangout with comfy couches and candy. Stop by anytime to take a break from your busy day! She is here to help and support you on your journey!
           </p>
         </div>
-        {!resize && <img src={require('./INFO/ateam_images/michelle.webp')} alt='Jones College Coordinator, Michelle Bennack' className='ateamimage float-right' id='ccimage'></img>}
+        {!resize && <img src={require('./INFO/ateam_images/SagerPic.jpg')} alt='Jones College Coordinator, Michelle Bennack' className='ateamimage float-right' id='ccimage'></img>}
       </div>
 
       <div className='ateamflex'>
