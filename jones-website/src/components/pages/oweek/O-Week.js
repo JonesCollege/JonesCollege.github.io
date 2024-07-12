@@ -131,9 +131,10 @@ const AffiliateGrid = () => {
 
 const OweekBook = () =>
  <div className='oweek-book-container'>
-    <div className='book-title-container'>
+    {/* <div className='book-title-container'> */}
         <h2 className='oweek-book-title'>OWEEK BOOK</h2>
-        <a
+        <h2 className='oweek-book-title'>coming soon...</h2>
+        {/* <a
             className='book-download-button'
             target="_blank"
             rel="noreferrer"
@@ -141,5 +142,5 @@ const OweekBook = () =>
             <MdDownload className='book-download-icon' />
         </a>
     </div>
-    <iframe className='oweek-flipbook' title='Jones O-Week Book' src="https://online.fliphtml5.com/qrykg/omln/" frameborder="0" allowfullscreen="true" allowtransparency="true"></iframe>
+    <iframe className='oweek-flipbook' title='Jones O-Week Book' src="https://online.fliphtml5.com/qrykg/omln/" frameborder="0" allowfullscreen="true" allowtransparency="true"></iframe> */}
 </div>;
