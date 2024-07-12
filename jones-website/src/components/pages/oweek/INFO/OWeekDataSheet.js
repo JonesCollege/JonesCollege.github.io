@@ -7,7 +7,7 @@ export const CoordLetter = {
     },
     {
       name: "Arryana Lyon",
-      phone: "anl10@rice.edu@rice.edu",
+      phone: "anl10@rice.edu",
     },
     {
       name: "Sammy Baek",
@@ -100,7 +100,7 @@ export const OWeekGroups = [
       },
       {
         name: "SERYNA A",
-        email: "skye.k.fredericks@rice.edu",
+        email: "ssa10@rice.edu",
         major: "Biosciences",
         collegetag: "./college-tags/jones_tag.png",
         img: "./images/o-week-groups/Abuela/Seryna.JPG",
@@ -136,7 +136,7 @@ export const OWeekGroups = [
       },
       {
         name: "JOSEPH P",
-        email: "wed.h.timraz@rice.edu",
+        email: "jhp11@rice.edu",
         major: "History",
         collegetag: "./college-tags/brown_tag.png",
         img: "./images/o-week-groups/Exes/Joseph.JPG",
@@ -374,7 +374,7 @@ export const OWeekGroups = [
       },
       {
         name: "ALEX K",
-        email: "nmj5@rice.edu",
+        email: "atk7@rice.edu",
         major: "Computer Science",
         collegetag: "./college-tags/baker_tag.png",
         img: "./images/o-week-groups/Penguins/Alex.JPG",
