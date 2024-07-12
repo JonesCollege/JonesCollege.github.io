@@ -150,7 +150,7 @@
 
 .oweek-gopher-grid {
     display: grid;
-    grid-template-columns: repeat(2, 160px);
+    grid-template-columns: repeat(1, 160px);
     column-gap: 6rem;
     padding-top: 2rem;
 }
