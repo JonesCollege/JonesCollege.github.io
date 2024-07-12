@@ -1,6 +1,6 @@
 import React , { useState } from 'react';
 import Modal from "react-modal";
-import {MdDownload} from 'react-icons/md'
+// import {MdDownload} from 'react-icons/md'
 import CoordCard from './CoordCard';
 import GroupCard from './GroupCard';
 import Footer from '../../Footer';
