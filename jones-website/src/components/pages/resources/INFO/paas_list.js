@@ -3,36 +3,30 @@ export const PAAs = [
         name: "Maya Hoffman", 
         email: "mh106@rice.edu", 
         areaOfStudy: "Health Sciences; Biochemistry & Cell Biology minor, Medical Humanities minor; Pre-Med", 
-        year: "Junior"
+        year: "Senior"
     }, 
     {
         name: "Hannah Lloyd", 
         email: "hal12@rice.edu", 
         areaOfStudy: "Sports Medicine and Exercise Physiology; Biochemistry & Cell Biology minor; Spanish Certificate; Pre-Dental", 
-        year: "Junior"
+        year: "Senior"
     }, 
     {
         name: "Eduardo Ruiz", 
         email: "er36@rice.edu", 
         areaOfStudy: "BioChemistry; Medical Humanities minor; Pre-Med", 
-        year: "Junior"
+        year: "Senior"
     }, 
     {
         name: "Seryna Ayala", 
         email: "ssa10@rice.edu", 
         areaOfStudy: "BioSciences; Art History minor; Pre-Med", 
-        year: "Junior"
-    }, 
-    {
-        name: "Andrew Buehler", 
-        email: "akb8@rice.edu", 
-        areaOfStudy: "Computer Science; Pre-Grad", 
         year: "Senior"
     }, 
     {
-        name: "Amy Cao", 
-        email: "ayc8@rice.edu", 
-        areaOfStudy: "Economics, Statistics; Financial Computation and Modeling minor", 
+        name: "Tolda Bustamante", 
+        email: "lb50@rice.edu", 
+        areaOfStudy: "Political Science and Visual and Dramatic Arts", 
         year: "Senior"
     }, 
     {
@@ -42,21 +36,21 @@ export const PAAs = [
         year: "Junior"
     }, 
     {
+        name: "Varsha Chandramouli", 
+        email: "vkc1@rice.edu", 
+        areaOfStudy: "Biosciences and Spanish; Medical Humanities Minor; Pre-Med", 
+        year: "Junior"
+    }, 
+    {
+        name: "Ric Chang", 
+        email: "ec63@rice.edu", 
+        areaOfStudy: "Chemical and Biomolecular Engineering; Engineering Design Minor; Philosophy Minor", 
+        year: "Senior"
+    }, 
+    {
         name: "Prahalad Chari", 
         email: "pac9@rice.edu", 
-        areaOfStudy: "Electrical Engineering; Pre-Grad", 
-        year: "Junior"
-    }, 
-    {
-        name: "James Cheng", 
-        email: "jdc15@rice.edu", 
-        areaOfStudy: "Biochemistry; Neuroscience minor; Pre-Med", 
-        year: "Junior"
-    }, 
-    {
-        name: "Philip Dubose", 
-        email: "pad3@rice.edu", 
-        areaOfStudy: "Cognitive Science; Global Heath Technologies minor; Pre-Med", 
+        areaOfStudy: "Electrical Engineering, Pre-Graduate", 
         year: "Senior"
     }, 
     {
@@ -66,57 +60,76 @@ export const PAAs = [
         year: "Senior"
     }, 
     {
+        name: "James Cheng", 
+        email: "jdc15@rice.edu", 
+        areaOfStudy: "Biosciences; Neuroscience Minor; Pre-Med", 
+        year: "Senior"
+    }, 
+    {
+        name: "Amy Coa", 
+        email: "ayc8@rice.edu", 
+        areaOfStudy: "Economics and Statistics; Financial Computation and Modeling Minor; Creative Writing Minor", 
+        year: "Senior"
+    }, 
+    {
         name: "Nyla Hartigan", 
         email: "nrh1@rice.edu", 
-        areaOfStudy: "Undecided; Data Science minor; Pre-Grad", 
+        areaOfStudy: "Physics and/or EEPS; Data Science Minor", 
+        year: "Junior"
+    }, 
+    {
+        name: "Abigail Li", 
+        email: "al181@rice.edu", 
+        areaOfStudy: "Sports Medicine and Exercise Physiology; Spanish; Pre-Med", 
         year: "Sophomore"
+    }, 
+    {
+        name: "Arryana Lyon", 
+        email: "anl10@rice.edu", 
+        areaOfStudy: "Cognitive Sciences; Environmental Studies Minor; Civic Leadership Certificate; French Language Certificate; Pre-Law ", 
+        year: "Junior"
+    }, 
+    {
+        name: "Rija Naqvi", 
+        email: "rhn1@rice.edu", 
+        areaOfStudy: "Biosciences; Politics, Law, and Social Thought Minor; Medical Humanities Minor; Pre-Med", 
+        year: "Senior"
     }, 
     {
         name: "Kareena Patel", 
         email: "khp4@rice.edu", 
-        areaOfStudy: "Sports Medicine and Exercise Physiology; Biochemistry minor, Spanish Certificate; Pre-Med", 
-        year: "Junior"
+        areaOfStudy: "Sports Medicine and Excercise Physiology; Pre-Med", 
+        year: "Senior"
     }, 
     {
-        name: "Madison Roy", 
-        email: "mmr11@rice.edu", 
-        areaOfStudy: "Cognitive Science; Global Health Technologies minor; Pre-grad", 
-        year: "Senior"
+        name: "Andrea Rodriguez", 
+        email: "ar221@rice.edu", 
+        areaOfStudy: "Political Science; Pre-Law", 
+        year: "Sophomore"
     }, 
     {
         name: "Ithzel Rubio", 
         email: "ir22@rice.edu", 
-        areaOfStudy: "Sociology; Business minor, Study of Women, Gender, and Sexuality minor, Politics, Law & Social Thought minor; Pre-Grad", 
+        areaOfStudy: "Sociology; Politics, Law, and Social Thought Minor; Study of Women, Gender, and Sexuality Minor; Pre-Law", 
         year: "Junior"
-    }, 
-    {
-        name: "Bikram Singh", 
-        email: "bps5@rice.edu", 
-        areaOfStudy: "Environmental Science", 
-        year: "Senior"
     }, 
     {
         name: "Mira Srinivasa", 
         email: "mas50@rice.edu", 
-        areaOfStudy: "Bioengineering; Pre-Med, Pre-Grad", 
-        year: "Sophomore"
-    }, 
-    {
-        name: "Adam Thomas", 
-        email: "ajt15@rice.edu", 
-        areaOfStudy: "Chemistry; Pre-Grad", 
-        year: "Senior"
-    }, 
-    {
-        name: "Luisa Tolda", 
-        email: "lb50@rice.edu", 
-        areaOfStudy: "Political Science, Visual and Dramatic Arts", 
+        areaOfStudy: "Bioengineering; Pre-MD/PhD", 
         year: "Junior"
-    }, 
+    },
     {
         name: "Hannah Watkins", 
         email: "hw76@rice.edu", 
-        areaOfStudy: "Computer Science ", 
-        year: "Sophomore"
-    }, 
+        areaOfStudy: "Computer Science", 
+        year: "Junior"
+    },
+    {
+        name: "Lauren Yu", 
+        email: "ly39@rice.edu", 
+        areaOfStudy: "Computer Science; Data Science Minor; Biochemistry and Cell Biology Minor", 
+        year: "Senior"
+    },
+     
 ]
