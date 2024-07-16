@@ -1,52 +1,57 @@
 export const RHAs = [
     {
-        "name": "Vanessa Chuang",
-        "email": "vc22@rice.edu",
-        "year": "Senior",
-    },
-    {
-        "name": "Vishnu Susheer",
-        "email": "vs48@rice.edu",
-        "year": "Senior",
-    },
-    {
-        "name": "Sarah Birenbaum",
-        "email": "smb26@rice.edu",
-        "year": "Senior",
-    },
-    {
-        "name": "Andrew Buehler",
-        "email": "akb8@rice.edu",
-        "year": "Senior",
-    },
-    {
-        "name": "Shria Chug",
-        "email": "ssc8@rice.edu",
-        "year": "Senior",
-    },
-    {
-        "name": "Delaney Miller",
+        "name": "Delaney Miller (Head RHA)",
         "email": "dem14@rice.edu",
+        "year": "Senior",
+    },
+    {
+        "name": "Samy Martinez (Head RHA)",
+        "email": "sm201@rice.edu",
         "year": "Junior",
     },
     {
         "name": "Yuv Sachdeva",
-        "email": "yss1@rice.edu",
-        "year": "Junior",
-    },
-    {
-        "name": "Brian Serrata",
-        "email": "bds7@rice.edu",
+        "email": "yuv@rice.edu",
         "year": "Senior",
     },
     {
-        "name": "Doug Cavillo",
+        "name": "Anisha Abraham",
+        "email": "ama25@rice.edu",
+        "year": "Senior",
+    },
+    {
+        "name": "Doug Calvillo",
         "email": "djc9@rice.edu",
-        "year": "Junior",
+        "year": "Senior",
     },
     {
         "name": "Christina Ko",
         "email": "cyk3@rice.edu",
+        "year": "Junior",
+    },
+    {
+        "name": "Daniel Peinado",
+        "email": "drp5@rice.edu",
+        "year": "Junior",
+    },
+    {
+        "name": "Melissa Lee",
+        "email": "melissalee@rice.edu",
+        "year": "Senior",
+    },
+    {
+        "name": "Katie Maurano",
+        "email": "km78@rice.edu",
+        "year": "Junior",
+    },
+    {
+        "name": "Navya Dronamraju",
+        "email": "nd58@rice.edu",
         "year": "Sophomore",
+    },
+    {
+        "name": "Ayra Matondang",
+        "email": "asm20@rice.edu",
+        "year": "Junior",
     },
 ]
