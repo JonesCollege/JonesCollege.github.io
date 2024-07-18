@@ -77,11 +77,6 @@ export const AppointedPos = [
             //     "people": ["Ben Lindenbaum"]
             // },
             {
-                "title": "Sports Coordinators",
-                "email": "jonessportscoords@gmail.com",
-                "people": ["Aditya Daga", "Maya Gerke", "Sean McGarry"],
-            },
-            {
                 "title": "JIBoArd Representative",
                 "email": "",
                 "people": ["Leela Sydow", "Sneha Johnson", "Yilan Ruan"],

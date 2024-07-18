@@ -137,7 +137,7 @@ export const OWeekGroups = [
       {
         name: "JOSEPH P",
         email: "jhp11@rice.edu",
-        major: "History",
+        major: "Chemistry",
         collegetag: "./college-tags/brown_tag.png",
         img: "./images/o-week-groups/Exes/Joseph.JPG",
       },
