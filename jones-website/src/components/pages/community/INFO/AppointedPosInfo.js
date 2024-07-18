@@ -49,7 +49,7 @@ export const AppointedPos = [
             {
                 "title": "Kitchen Coordinators",
                 "email": "joneskitchencommittee@gmail.com",
-                "people": ["Abigail Li", "Anjali Matthew", "Delaney Miller"],
+                "people": ["Abigail Li", "Anjali Mathew", "Delaney Miller"],
             },
             {
                 "title": "Environmental Representative",
@@ -94,7 +94,7 @@ export const AppointedPos = [
             {
                 "title": "Webmagisters",
                 "email": "jibawebmaster@gmail.com",
-                "people": ["Ananya Rao", "Anjali Matthew"]
+                "people": ["Ananya Rao", "Anjali Mathew"]
             },
             {
                 "title": "Historians",
