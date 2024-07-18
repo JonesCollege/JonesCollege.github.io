@@ -71,7 +71,7 @@ const Studentgov = () => {
       <hr className='govdivide'></hr>
 
       <div id='electedpos'>
-          <h3 className='postitle'>ELECTED POSITIONS 2023-2024</h3>
+          <h3 className='postitle'>ELECTED POSITIONS 2024-2025</h3>
           <p id='electedposdesc'>are a great way for Jonesians to contribute to life in the college. Anyone is eligible to run
           for these positions and they are voted on by the entirety of the Jones student body.</p>
           <div className='posflexrow'>
@@ -84,7 +84,7 @@ const Studentgov = () => {
       <hr className='govdivide'></hr>
 
       <div id='appointedposheader'>
-          <h3 className='postitle'>APPOINTED POSITIONS 2023-2024</h3>
+          <h3 className='postitle'>APPOINTED POSITIONS 2024-2025</h3>
           <p id='appointposdesc'>are another way to get involved. These positions are selected by the President, Chief Justice, 
           IVP, and EVP each year, usually in the spring.</p>
       </div>  
