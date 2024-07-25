@@ -249,7 +249,7 @@ export const OWeekGroups = [
     ],
   },
   {
-    name: "Fresh Prince of Mirabel",
+    name: "Fresh Prince of Mirabel-Air",
     members: "Mishael Taylor, Abigail Jablon, Manav Lund, Ian Rundle",
     img: "./images/o-week-groups/Mirabel/FPMA.JPG",
     profiles: [

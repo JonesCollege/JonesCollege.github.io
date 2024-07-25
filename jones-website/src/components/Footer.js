@@ -20,7 +20,7 @@ function Footer() {
                 </a>
             </div>
             <p className='footer-q-font'>
-                Questions? Contact our College Coordinator Michelle Bennack at mrb4@rice.edu.
+                Questions? Contact our College Coordinator Kellie Sager at ks235@rice.edu.
             </p>
             <a style={{margin: '10px'}} href="/privacy_policy.pdf" target="_blank" rel="noopener noreferrer">
                 Privacy Policy
