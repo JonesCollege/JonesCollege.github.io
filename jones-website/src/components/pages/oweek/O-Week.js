@@ -141,5 +141,5 @@ const OweekBook = () =>
             <MdDownload className='book-download-icon' />
         </a> */}
     </div>
-    <iframe className='oweek-flipbook' title='Jones O-Week Book' src="https://issuu.com/jones-college/docs/encanto-week_book" frameborder="0" allowfullscreen="true" allowtransparency="true"></iframe>
+    <iframe className='oweek-flipbook' title='Jones O-Week Book' src="https://heyzine.com/flip-book/64a4f37b27.html" frameborder="0" allowfullscreen="true" allowtransparency="true"></iframe>
 </div>;
