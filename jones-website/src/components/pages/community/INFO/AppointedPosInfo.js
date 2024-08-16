@@ -52,9 +52,9 @@ export const AppointedPos = [
                 "people": ["Abigail Li", "Anjali Mathew", "Delaney Miller"],
             },
             {
-                "title": "Environmental Representative",
+                "title": "Environmental Representatives",
                 "email": "jones.ecoreps@gmail.com",
-                "people": ["Abigail Jablon"]
+                "people": ["Abigail Jablon, Dyllan Lozano-Lomeli"]
             },
             {
                 "title": "Merchandise Coordinators",
