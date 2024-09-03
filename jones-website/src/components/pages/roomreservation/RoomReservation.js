@@ -62,9 +62,9 @@ function RoomReservation() {
   return (
   <div className='room-reservation-container'>
     <h1 className="header-text">RESERVE A ROOM</h1>
-    <p className='description-text'>Creating a room reservation requires a Google Calendar account. Once submitted, confirm the reservation has been created by checking your Google Calendar, it can then be deleted by simply removing it from your calendar. </p>
+    <p className='description-text'>To create a room reservation, fill out the google form on the left and click submit. This will create an event on the Jones calendar. Make sure you are logged into your Rice email. You may have to refresh the page once you click submit to view your newly created event on the calendar.</p>
     <div className='display-container'>
-      <div className='purple-border'>
+      {/* <div className='purple-border'>
         <div className='date-header'>
             <div className='day-selector-icon'>
                 <DatePicker 
@@ -98,10 +98,12 @@ function RoomReservation() {
           <RoomEventView title="Jitchen" eventsList={kitchenEvents} selectedDay={selectedDay}/>
           <RoomEventView title="Movie Room" eventsList={movieRoomEvents} selectedDay={selectedDay}/>
         </div>
-      </div>
-      <div className="reservation-form">
+      </div> */}
+      {/* <div className="reservation-form">
         <ReservationForm/>
-      </div>
+      </div> */}
+      <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfpRvK5HQXsglj10SMKeNIhW-VjCiOKSvpxA-XobnvgVPCkrw/viewform?embedded=true" width="640" height="1000" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+      <iframe src="https://calendar.google.com/calendar/embed?src=jonessecretaries%40gmail.com&ctz=America%2FChicago" style={{border: '0'}} width="1000" height="800" frameborder="0" scrolling="no"></iframe>
     </div>
     <Footer />
   </div>
