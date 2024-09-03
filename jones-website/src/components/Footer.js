@@ -1,7 +1,6 @@
 import React from 'react';
 import { BsInstagram, BsFacebook } from 'react-icons/bs'
 import './Footer.css';
-import PrivacyPolicyPage from './PrivacyPolicy';
 
 function Footer() {
     return (
