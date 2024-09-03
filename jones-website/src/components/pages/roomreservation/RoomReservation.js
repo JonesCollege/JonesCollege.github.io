@@ -102,8 +102,26 @@ function RoomReservation() {
       {/* <div className="reservation-form">
         <ReservationForm/>
       </div> */}
-      <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfpRvK5HQXsglj10SMKeNIhW-VjCiOKSvpxA-XobnvgVPCkrw/viewform?embedded=true" width="640" height="1000" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
-      <iframe src="https://calendar.google.com/calendar/embed?src=jonessecretaries%40gmail.com&ctz=America%2FChicago" style={{border: '0'}} width="1000" height="800" frameborder="0" scrolling="no"></iframe>
+      <div className="embedded-content">
+      <div className="iframe-container form-container">
+        <iframe
+          src="https://docs.google.com/forms/d/e/1FAIpQLSfpRvK5HQXsglj10SMKeNIhW-VjCiOKSvpxA-XobnvgVPCkrw/viewform?embedded=true"
+          className="responsive-iframe"
+          title="Google Form"
+        >
+          Loading…
+        </iframe>
+      </div>
+      <div className="iframe-container calendar-container">
+        <iframe
+          src="https://calendar.google.com/calendar/embed?src=jonessecretaries%40gmail.com&ctz=America%2FChicago"
+          className="responsive-iframe"
+          title="Google Calendar"
+        >
+          Loading…
+        </iframe>
+      </div>
+    </div>
     </div>
     <Footer />
   </div>
