@@ -1,6 +1,7 @@
 import React from 'react';
 import { BsInstagram, BsFacebook } from 'react-icons/bs'
 import './Footer.css';
+import PrivacyPolicyPage from './PrivacyPolicy';
 
 function Footer() {
     return (
@@ -22,9 +23,7 @@ function Footer() {
             <p className='footer-q-font'>
                 Questions? Contact our College Coordinator Kellie Sager at ks235@rice.edu.
             </p>
-            <a style={{margin: '10px'}} href="/privacy_policy.pdf" target="_blank" rel="noopener noreferrer">
-                Privacy Policy
-            </a>
+            <a style={{ margin: '10px' }} href="/privacy-policy" target="_blank" rel="noopener noreferrer">Privacy Policy</a>
         </div>
     )
 }

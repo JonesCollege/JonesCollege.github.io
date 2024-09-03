@@ -11,6 +11,7 @@ import BeerBikeTraditionsPage from "./components/pages/beerbike-traditions/BeerB
 import PeerResources from './components/pages/resources/PeerResources';
 import CalendarMobile from './components/calendar/CalendarMobile';
 import RoomReservation from './components/pages/roomreservation/RoomReservation';
+import PrivacyPolicyPage from './components/PrivacyPolicy';
 
 
 function App() {
@@ -28,6 +29,7 @@ function App() {
           <Route path='/resources' exact element={<PeerResources />} />          
           <Route path='/calendar' exact element={<CalendarMobile />} />
           <Route path='/reserve-room' exact element={<RoomReservation />} />
+          <Route path='/privacy-policy' exact element={<PrivacyPolicyPage />} />
         </Routes>
       </Router>
     </>
