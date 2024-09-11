@@ -47,6 +47,10 @@
   padding:24px 40px;
 }
 
+.description-text- {
+  font-family: 'mpReg';
+}
+
 .date-header {
   display: flex;
   flex-direction: row;

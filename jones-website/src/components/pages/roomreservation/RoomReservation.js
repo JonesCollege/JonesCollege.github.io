@@ -63,7 +63,8 @@ function RoomReservation() {
   return (
   <div className='room-reservation-container'>
     <h1 className="header-text">RESERVE A ROOM</h1>
-    <p className='description-text'>To create a room reservation, fill out the google form on the left and click submit. This will create an event on the Jones calendar. Make sure you are logged into your Rice email. You may have to refresh the page once you click submit to view your newly created event on the calendar.</p>
+    <p className='description-text'>To create a room reservation, fill out the google form on the left and click submit. This will create an event on the Jones Room Reservation calendar. You may have to refresh the page once you click submit to view your newly created event on the calendar.</p>
+    <p className='description-text-'>If you would like to make a recurring room reservation or want to reserve commons, please reach out to our secretaries at <a href="mailto:jonessecretaries@gmail.com">jonessecretaries@gmail.com</a>.</p>
     <div className='display-container'>
       {/* <div className='purple-border'>
         <div className='date-header'>
